@@ -1,0 +1,17 @@
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\TestJobApi.exe
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\TestJobApi.deps.json
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\TestJobApi.runtimeconfig.json
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\TestJobApi.dll
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\ref\TestJobApi.dll
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\TestJobApi.pdb
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.csproj.AssemblyReference.cache
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.AssemblyInfoInputs.cache
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.AssemblyInfo.cs
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.csproj.CoreCompileInputs.cache
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.csproj.CopyComplete
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.dll
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\ref\TestJobApi.dll
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.pdb
+C:\Users\maksi\RiderProjects\TestJobApi\TestJobApi\obj\Debug\net6.0\TestJobApi.genruntimeconfig.cache
